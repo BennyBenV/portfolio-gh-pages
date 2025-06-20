@@ -90,6 +90,23 @@
     ],
     "image": "assets/projet_bookbox.png",
     "link": "https://bookbox-pi.vercel.app/"
+  },
+  {
+    "id": 8,
+    "title": "Jeu d’enquête policière EspritsCriminels",
+    "description": "EspritsCriminels est un jeu d’enquête policière immersif développé en Java, où les joueurs résolvent des affaires complexes en collectant des indices et en interrogeant des témoins. Le projet utilise une architecture orientée objet avec une interface graphique Swing. Une innovation majeure est l’intégration de l’IA Gemini, qui permet de générer des scénarios dynamiques et d’enrichir l’expérience de jeu avec une intelligence artificielle avancée.",
+    "technologies": [
+      "Java",
+      "Programmation orientée objet",
+      "Swing",
+      "MVC",
+      "React",
+      "Axios",
+      "IA Gemini"
+    ],
+    "image": "assets/projet_espritscriminels.png",
+    "link": "https://github.com/BennyBenV/EspritsCriminels"
   }
+  
   
 ]
