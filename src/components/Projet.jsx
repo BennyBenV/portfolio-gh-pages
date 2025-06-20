@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import ReactDOM from 'react-dom';
 import '../style/projet.css';
 
 const Projet = ({ title, description, technologies, image, link }) => {
@@ -31,13 +32,14 @@ const Projet = ({ title, description, technologies, image, link }) => {
         )}
       </div>
 
-      {isModalOpen && (
+      {isModalOpen && ReactDOM.createPortal(
         <div className="modal open" onClick={handleModalClick}>
           <div className="modal-content">
             <span className="close" onClick={closeModal}>&times;</span>
             <img src={image} alt={title} />
           </div>
-        </div>
+        </div>,
+        document.getElementById('modal-root')
       )}
     </div>
   );

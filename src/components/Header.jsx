@@ -13,8 +13,8 @@ const Header = () => {
           Je conçois des interfaces web modernes, performantes et accessibles. Mon objectif : créer des expériences utilisateurs uniques et impactantes.
         </p>
         <div className="hero-buttons">
-          <a href="#projects" className="hero-btn">Voir mes projets</a>
           <a href="#about" className="hero-btn secondary">En savoir plus</a>
+          <a href="#projects" className="hero-btn">Voir mes projets</a>
         </div>
       </div>
     </header>
