@@ -72,5 +72,24 @@
     ],
     "image": "assets/projet_ninaC.png",
     "link": "https://github.com/BennyBenV/BennyBenV-Projet-5-Nina"
+  },
+  {
+    "id": 7,
+    "title": "Application de gestion de bibliothèque personnelle BookBox",
+    "description": "BookBox est une application web qui permet de gérer une bibliothèque personnelle de livres. Elle offre la possibilité d’ajouter, modifier, supprimer et organiser les livres facilement. Grâce à l’intégration de l’API Google Books, les utilisateurs peuvent rechercher et importer automatiquement des informations détaillées sur les livres. Le front-end est développé avec React pour une interface dynamique, tandis que le back-end utilise Node.js et Express pour gérer les données stockées dans une base MongoDB. Le projet est déployé sur Render (back-end) et Vercel (front-end) pour garantir une accessibilité optimale et des performances fiables.",
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "API Google Books",
+      "REST API",
+      "CSS Modules",
+      "Render",
+      "Vercel"
+    ],
+    "image": "assets/projet_bookbox.png",
+    "link": "https://bookbox-pi.vercel.app/"
   }
+  
 ]
