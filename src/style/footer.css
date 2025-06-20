@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
+
+.footer {
+  padding: 32px 0 18px 0;
+  background: #0a192f;
+  color: #a8b2d1;
+  text-align: center;
+  font-family: 'Inter', Arial, sans-serif;
+  border-top: 1.5px solid #233554;
+  box-shadow: 0 -2px 24px 0 rgba(10,25,47,0.10);
+}
+
+.social-icons {
+  margin-bottom: 14px;
+}
+
+.social-icons a {
+  color: #ccd6f6;
+  font-size: 2em;
+  margin: 0 16px;
+  transition: transform 0.25s, color 0.25s;
+  display: inline-block;
+}
+
+.social-icons a:hover, .social-icons a:focus {
+  color: #64ffda;
+  transform: scale(1.18) translateY(-2px);
+}
+
+.footer p {
+  margin: 0;
+  font-size: 1.08em;
+  color: #8892b0;
+  letter-spacing: 0.5px;
+}
+
+@media (max-width: 700px) {
+  .footer {
+    padding: 22px 0 10px 0;
+  }
+  .social-icons a {
+    font-size: 1.4em;
+    margin: 0 8px;
+  }
+  .footer p {
+    font-size: 0.95em;
+  }
+}
+
+@media (max-width: 480px) {
+  .social-icons a {
+      font-size: 1.2em;
+      margin: 0 5px;
+  }
+
+  .footer {
+      padding: 15px;
+  }
+
+  .footer p {
+      font-size: 0.85em;
+  }
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "Intégration d'une page d'accueil pour une agence de voyage",
+    "description": "Création de la page d'accueil d'une agence de voyage en utilisant HTML et CSS. J'ai intégré l'interface responsive à partir de maquettes Figma pour mobile, tablette et desktop, en écrivant tout le code manuellement pour une meilleure compréhension du design responsive.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "Responsive Design"
+    ],
+    "image": "assets/projet_booki.png",
+    "link": "https://bennybenv.github.io/booki-starter-code-master/"
+  },
+  {
+    "id": 2,
+    "title": "Création d'une application web de location immobilière avec React",
+    "description": "Conception et développement d'une application web de location immobilière en utilisant React et React Router pour une navigation fluide entre les pages. Le projet met l'accent sur le front-end, en suivant les maquettes fournies et en utilisant des données simulées à partir d'un fichier JSON. SASS a été utilisé pour une gestion avancée des styles, avec des animations CSS pour améliorer l'expérience utilisateur.",
+    "technologies": [
+      "React",
+      "React Router",
+      "SASS"
+    ],
+    "image": "assets/projet_kasa.png",
+    "link": "https://github.com/BennyBenV/kasa2"
+  },
+  {
+    "id": 3,
+    "title": "Création d'une page web dynamique avec JavaScript",
+    "description": "Développement d'une page web dynamique pour un site d'architecte d'intérieur en utilisant JavaScript pour manipuler le DOM et gérer les interactions utilisateur. Le projet inclut également la création d'une page de connexion et d'une modale pour l'upload de médias, avec communication via API.",
+    "technologies": [
+      "JavaScript",
+      "DOM Manipulation",
+      "API"
+    ],
+    "image": "assets/projet_sophieB.png",
+    "link": "https://github.com/BennyBenV/Portfolio-architecte-sophie-bluel"
+  },
+  {
+    "id": 4,
+    "title": "Développement du back-end d'un site de notation de livres",
+    "description": "Création du back-end d'un site de notation de livres avec Node.js, Express, et MongoDB. J'ai implémenté des opérations CRUD sécurisées, un système d'authentification, et une gestion optimisée des images. L'architecture MVC a été suivie pour structurer l'application, en respectant les bonnes pratiques du Green Code.",
+    "technologies": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "MVC"
+    ],
+    "image": "assets/projet_monVieuxGrimoire.png",
+    "link": "https://github.com/BennyBenV/P7_Backend"
+  },
+  {
+    "id": 5,
+    "title": "Planification et gestion du développement d'un site web",
+    "description": "Planification du développement d'un site web en rédigeant des spécifications techniques et en décomposant les fonctionnalités en tâches spécifiques. J'ai utilisé un outil de gestion de projet pour organiser et suivre le projet via un tableau Kanban. J'ai également effectué une veille technologique pour rester à jour avec les tendances du développement web.",
+    "technologies": [
+      "Gestion de projet",
+      "Trello",
+      "Veille technologique",
+      "Kanban"
+    ],
+    "image": "assets/projet_qwenta.png"
+  },
+  {
+    "id": 6,
+    "title": "Optimisation du référencement et de la performance d'un site web",
+    "description": "Dans ce projet, j'ai optimisé le référencement, la performance et l'accessibilité d'un site web. J'ai utilisé des outils comme Lighthouse et Wave pour identifier les problèmes de chargement et de SEO. Après avoir proposé des améliorations, j'ai modifié le code du site pour améliorer sa visibilité sur les moteurs de recherche. J'ai également créé un rapport détaillant les résultats avant et après les modifications.",
+    "technologies": [
+      "SEO",
+      "Lighthouse",
+      "Wave",
+      "Chrome DevTools"
+    ],
+    "image": "assets/projet_ninaC.png",
+    "link": "https://github.com/BennyBenV/BennyBenV-Projet-5-Nina"
+  }
+]
