@@ -8,7 +8,7 @@
       "CSS",
       "Responsive Design"
     ],
-    "image": "/assets/projet_booki.png",
+    "image": "assets/projet_booki.png",
     "link": "https://bennybenv.github.io/booki-starter-code-master/"
   },
   {
@@ -20,7 +20,7 @@
       "React Router",
       "SASS"
     ],
-    "image": "/assets/projet_kasa.png",
+    "image": "assets/projet_kasa.png",
     "link": "https://github.com/BennyBenV/kasa2"
   },
   {
@@ -32,7 +32,7 @@
       "DOM Manipulation",
       "API"
     ],
-    "image": "/assets/projet_sophieB.png",
+    "image": "assets/projet_sophieB.png",
     "link": "https://github.com/BennyBenV/Portfolio-architecte-sophie-bluel"
   },
   {
@@ -45,7 +45,7 @@
       "MongoDB",
       "MVC"
     ],
-    "image": "/assets/projet_monVieuxGrimoire.png",
+    "image": "assets/projet_monVieuxGrimoire.png",
     "link": "https://github.com/BennyBenV/P7_Backend"
   },
   {
@@ -58,7 +58,7 @@
       "Veille technologique",
       "Kanban"
     ],
-    "image": "/assets/projet_qwenta.png"
+    "image": "assets/projet_qwenta.png"
   },
   {
     "id": 6,
@@ -70,7 +70,7 @@
       "Wave",
       "Chrome DevTools"
     ],
-    "image": "/assets/projet_ninaC.png",
+    "image": "assets/projet_ninaC.png",
     "link": "https://github.com/BennyBenV/BennyBenV-Projet-5-Nina"
   }
 ]
