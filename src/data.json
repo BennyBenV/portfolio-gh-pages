@@ -106,6 +106,22 @@
     ],
     "image": "assets/projet_espritscriminels.png",
     "link": "https://github.com/BennyBenV/EspritsCriminels"
+  },
+  {
+    "id": 9,
+    "title": "WavingFlag",
+    "description": "WavingFlag est un site de quiz ludique et éducatif sur les drapeaux du monde. Il propose un mode solo personnalisable (choix du continent, nombre de questions) et un mode multijoueur en temps réel où les joueurs peuvent s’affronter, créer ou rejoindre des parties, et grimper dans le classement. L’interface est moderne, responsive et colorée. Le projet utilise React pour le frontend, Node.js/Express et Socket.io pour le backend, ainsi que Firebase pour l’authentification.",
+    "technologies": [
+      "React",
+      "SCSS",
+      "Node.js",
+      "Express",
+      "Socket.io",
+      "Firebase",
+      "REST Countries API"
+    ],
+    "image": "assets/projet_wavingflag.png",
+    "link": "https://waving-flag-git-master-bennybenvs-projects.vercel.app/"
   }
   
   
