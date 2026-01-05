@@ -4,7 +4,7 @@ import '../style/header.css';
 
 const Header = () => {
   return (
-    <header className="hero">
+    <section className="hero">
       <div className="hero-content">
         <p className="hero-intro">Bonjour, je m'appelle</p>
         <h1 className="hero-title">Benjamin Vu.</h1>
@@ -17,7 +17,7 @@ const Header = () => {
           <a href="#projects" className="hero-btn">Voir mes projets</a>
         </div>
       </div>
-    </header>
+    </section>
   );
 };
 

@@ -1,5 +1,6 @@
 // src/App.js
 import React from 'react';
+import Navbar from './components/Navbar';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import About from './components/About';
@@ -10,9 +11,10 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      <header>
+      <Navbar />
+      <div id="hero">
         <Header />
-      </header>
+      </div>
       <main>
         <About />
         <ProjetList />
